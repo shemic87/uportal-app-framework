@@ -41,7 +41,9 @@ Versioning](http://semver.org/spec/v2.0.0.html).
 
 ### Deprecated
 
-
++ The `weather` widget type is deprecated. MyUW is no longer using it with no
+  realistic prospects of returning it to service, so it will be cleaner to
+  intentionally remove the type rather than to neglect it.
 
 ### Documentation
 
