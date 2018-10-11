@@ -43,6 +43,9 @@ and this project adheres to
 
 ### Documentation
 
++ Added localhost example of `list-of-links` sourcing links directly from
+  `widgetConfig` rather than from external URL. (#851)
+
 ## [10.3.0][] - 2018-09-19
 
 ### Added in 10.3.0
